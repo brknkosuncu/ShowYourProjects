@@ -1,0 +1,40 @@
+.navbar{
+    border-radius: 10px;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    justify-content: space-between;
+}
+.syp {
+    margin-left: -350px;
+}
+
+.profile{
+    justify-content: flex-end;
+    align-items: center;
+    margin-left: -315px;
+    width:220%;
+}
+.userName{
+    margin-left: -50px;
+}
+
+.avatar{ 
+    width:52px;
+    height:52px;
+    background-color: rgb(207, 133, 110);
+    border-radius: 40px;
+    
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.link{
+    color:rgb(247, 244, 244);
+}
+.img {
+    width: 45px;
+    height: 45px;
+
+}
+
